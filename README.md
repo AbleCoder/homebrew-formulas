@@ -14,3 +14,5 @@ To compile and install the latest tmux source run the following command:
 ```bash
 brew install --HEAD https://raw.github.com/AbleCoder/homebrew-formulas/master/tmux.rb
 ```
+
+**NOTE:** On first install attempt I got errors reporting `libevent` was missing. It was already installed so to get it working I force removed it and reinstalled it with: `brew remove --force libevent; brew install libevent`. Then I opened a new shell and the install worked.
