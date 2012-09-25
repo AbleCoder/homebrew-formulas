@@ -5,7 +5,7 @@ My collection of custom homebrew formulas
 
 # Custom Formulas
 
-## tmux 1.7 (HEAD)
+## tmux HEAD (1.7)
 
 I wanted to install tmux HEAD because v1.7 fixes pwd when creating new panes, fixes OSX clipboard paste and also allows you to put your status bar on the top.
 
