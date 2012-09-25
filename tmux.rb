@@ -18,7 +18,7 @@ class Tmux < Formula
   def patches
     # Fix for Japanese characters. See:
     #   http://sourceforge.net/tracker/?func=detail&aid=3566884&group_id=200378&atid=973264
-    p = ['http://sourceforge.net/tracker/download.php?group_id=200378&atid=973264&file_id=453002&aid=3566884']
+    #p = ['http://sourceforge.net/tracker/download.php?group_id=200378&atid=973264&file_id=453002&aid=3566884']
   end
 
   def install
