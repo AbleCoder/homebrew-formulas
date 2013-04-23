@@ -1,5 +1,8 @@
 require 'formula'
 
+# Copied from:
+#   https://raw.github.com/creaktive/homebrew/master/Library/Formula/rainbarf.rb
+
 class Rainbarf < Formula
   homepage 'https://github.com/creaktive/rainbarf'
   url 'https://github.com/creaktive/rainbarf/archive/v0.8.tar.gz'
